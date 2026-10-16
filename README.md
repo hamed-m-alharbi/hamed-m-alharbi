@@ -12,7 +12,7 @@ I build data pipelines that people can trust: extract, load, model, test, and se
 - **Cloud & DevOps:** Google Cloud (GCS, Cloud Run) · Terraform · Docker · Git
 - **Apps:** Streamlit
 
-### ⚽ Featured project: [Kashaf](https://github.com/hmonaweribrahim-crypto/kashaf-scouting)
+### ⚽ Featured project: [Kashaf](https://github.com/hamed-m-alharbi/kashaf-scouting)
 
 A data-driven scouting tool that helps football clubs find the best player they can afford.
 Full ELT pipeline on Google Cloud: Python → Cloud Storage → BigQuery → dbt → Streamlit on Cloud Run, refreshed weekly with Airflow.
