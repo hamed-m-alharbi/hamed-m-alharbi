@@ -1,26 +1,30 @@
-## Hi, I'm Hamed 👋
+# Hamed Alharbi
 
-**Junior Data Engineer** based in Riyadh, Saudi Arabia.
-IT graduate from Qassim University and graduate of the **Saudi Digital Academy Data Engineering Bootcamp** (Le Wagon curriculum).
+**Junior Data Engineer · Applied AI**  
+Riyadh, Saudi Arabia · [LinkedIn](https://www.linkedin.com/in/hamed-al-harbi-741604374/)
 
-I build data pipelines that people can trust: extract, load, model, test, and serve.
+I build data pipelines and AI workflows that turn messy source data into results people can verify. I’m an Information Technology graduate from Qassim University and completed the Saudi Digital Academy Data Engineering Bootcamp (Le Wagon curriculum).
 
-### 🛠️ Tools I work with
+## Selected projects
 
-- **Languages:** Python · SQL · Bash
-- **Data:** Apache Airflow · dbt · Google BigQuery · PostgreSQL · pandas
-- **Cloud & DevOps:** Google Cloud (GCS, Cloud Run) · Terraform · Docker · Git
-- **Apps:** Streamlit
+### [Kashaf](https://github.com/hamed-m-alharbi/kashaf-scouting) · Football scouting on Google Cloud
 
-### ⚽ Featured project: [Kashaf](https://github.com/hamed-m-alharbi/kashaf-scouting)
+I led the capstone team that built a tool for clubs to compare player performance and market value within a budget. Our ELT pipeline matched **1,605 players** across two sources without a shared ID, with Airflow configured for weekly refreshes.
+`Python` · `BigQuery` · `dbt` · `Airflow` · `Terraform` · `Cloud Run`
 
-A data-driven scouting tool that helps football clubs find the best player they can afford.
-Full ELT pipeline on Google Cloud: Python → Cloud Storage → BigQuery → dbt → Streamlit on Cloud Run, refreshed weekly with Airflow.
+### [FURSAH · فرصة](https://github.com/hamed-m-alharbi/fursah) · Source-grounded AI search in Arabic
 
-- 1,605 / 1,605 players matched across two sources with no shared ID
-- 85 dbt models and tests
-- [Live app](https://kashaf-dashboard-350342337334.europe-west1.run.app)
+An AI agent that recommends open opportunities and links back to the original announcements. I built the data publication and search workflows and led the evaluation work. Our team passed **23 of 24 shared evaluation cases**, up from 12 at baseline.
+`Python` · `FastAPI` · `SQLite` · `LLM evaluation` · `Arize Phoenix`
 
-### 📫 Let's connect
+### [Radar](https://github.com/hamed-m-alharbi/radar-showcase) · Job discovery and application tracking
 
-Open to Junior Data Engineer and Analytics Engineer roles. Reach me on [LinkedIn](https://www.linkedin.com/in/hamed-al-harbi-741604374/).
+A dashboard for finding openings by role and city, running searches on demand or on a schedule, and tracking applications from discovery to outcome.
+
+## What I work with
+
+- **Data engineering:** Python, SQL, Airflow, dbt, BigQuery, PostgreSQL
+- **Backend and automation:** FastAPI, n8n, Docker, Git
+- **Cloud:** Google Cloud Storage, Cloud Run, Terraform
+
+I’m open to junior roles in data engineering, analytics engineering, and applied AI. [Get in touch on LinkedIn](https://www.linkedin.com/in/hamed-al-harbi-741604374/).
